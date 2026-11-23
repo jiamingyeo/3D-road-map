@@ -1,0 +1,286 @@
+{
+  "themes": [
+    {
+      "id": 1,
+      "name": "Google Light",
+      "hotkey": "T+1",
+      "inspired_by": "Google Maps",
+      "background": [ 178, 215, 230 ],
+      "skyground": [ 255, 192, 203 ],
+      "roads": {
+        "motorway": [ 255, 194, 0 ],
+        "trunk": [ 255, 140, 51 ],
+        "primary": [ 255, 237, 161 ],
+        "secondary": [ 199, 199, 0 ],
+        "tertiary": [ 179, 179, 179 ],
+        "residential": [ 161, 161, 161 ],
+        "service": [ 120, 120, 120 ],
+        "footway": [ 79, 199, 79 ],
+        "path": [ 79, 199, 79 ],
+        "cycleway": [ 61, 140, 219 ],
+        "living_street": [ 140, 181, 140 ],
+        "steps": [ 161, 120, 79 ]
+      },
+      "buildings": {
+        "residential": [ 89, 130, 181 ],
+        "house": [ 89, 130, 181 ],
+        "detached": [ 89, 130, 181 ],
+        "apartments": [ 69, 110, 161 ],
+        "commercial": [ 181, 130, 69 ],
+        "retail": [ 181, 130, 69 ],
+        "industrial": [ 161, 99, 79 ],
+        "school": [ 110, 181, 89 ],
+        "university": [ 110, 181, 89 ],
+        "hospital": [ 219, 79, 79 ],
+        "default": [ 128, 128, 128 ]
+      },
+      "pois": {
+        "default": [ 51, 229, 255 ]
+      },
+      "path": {
+        "inner": [ 255, 51, 51 ],
+        "outline": [ 255, 204, 0 ]
+      },
+      "sun": {
+        "ambient": 0.70,
+        "elevation": 45.0,
+        "azimuth": 135.0
+      }
+    },
+    {
+      "id": 2,
+      "name": "Google Dark",
+      "hotkey": "T+2",
+      "inspired_by": "Google Maps Dark",
+      "background": [ 30, 35, 45 ],
+      "skyground": [ 155, 200, 220 ],
+      "roads": {
+        "motorway": [ 230, 170, 30 ],
+        "trunk": [ 230, 130, 50 ],
+        "primary": [ 200, 180, 130 ],
+        "secondary": [ 160, 160, 80 ],
+        "tertiary": [ 130, 130, 130 ],
+        "residential": [ 110, 110, 110 ],
+        "service": [ 80, 80, 80 ],
+        "footway": [ 60, 160, 60 ],
+        "path": [ 60, 160, 60 ],
+        "cycleway": [ 50, 120, 190 ],
+        "living_street": [ 110, 150, 110 ],
+        "steps": [ 130, 100, 60 ]
+      },
+      "buildings": {
+        "residential": [ 70, 100, 140 ],
+        "house": [ 70, 100, 140 ],
+        "detached": [ 70, 100, 140 ],
+        "apartments": [ 55, 85, 125 ],
+        "commercial": [ 140, 100, 55 ],
+        "retail": [ 140, 100, 55 ],
+        "industrial": [ 125, 75, 60 ],
+        "school": [ 85, 140, 70 ],
+        "university": [ 85, 140, 70 ],
+        "hospital": [ 170, 60, 60 ],
+        "default": [ 100, 100, 100 ]
+      },
+      "pois": {
+        "default": [ 40, 180, 200 ]
+      },
+      "path": {
+        "inner": [ 220, 40, 40 ],
+        "outline": [ 220, 180, 0 ]
+      },
+      "sun": {
+        "ambient": 0.30,
+        "elevation": 35.0,
+        "azimuth": 150.0
+      }
+    },
+    {
+      "id": 3,
+      "name": "OSM Light",
+      "hotkey": "T+3",
+      "inspired_by": "OpenStreetMap Default",
+      "background": [ 170, 210, 228 ],
+      "skyground": [ 155, 200, 220 ],
+      "roads": {
+        "motorway": [ 230, 150, 100 ],
+        "trunk": [ 230, 180, 120 ],
+        "primary": [ 250, 200, 140 ],
+        "secondary": [ 240, 210, 180 ],
+        "tertiary": [ 220, 215, 210 ],
+        "residential": [ 200, 195, 190 ],
+        "service": [ 180, 175, 170 ],
+        "footway": [ 160, 210, 160 ],
+        "path": [ 160, 210, 160 ],
+        "cycleway": [ 150, 190, 220 ],
+        "living_street": [ 190, 200, 185 ],
+        "steps": [ 185, 165, 145 ]
+      },
+      "buildings": {
+        "residential": [ 200, 185, 160 ],
+        "house": [ 200, 185, 160 ],
+        "detached": [ 200, 185, 160 ],
+        "apartments": [ 185, 170, 145 ],
+        "commercial": [ 210, 185, 155 ],
+        "retail": [ 210, 185, 155 ],
+        "industrial": [ 195, 175, 160 ],
+        "school": [ 195, 205, 175 ],
+        "university": [ 195, 205, 175 ],
+        "hospital": [ 220, 175, 175 ],
+        "default": [ 190, 185, 175 ]
+      },
+      "pois": {
+        "default": [ 100, 180, 220 ]
+      },
+      "path": {
+        "inner": [ 220, 60, 60 ],
+        "outline": [ 220, 190, 20 ]
+      },
+      "sun": {
+        "ambient": 0.60,
+        "elevation": 50.0,
+        "azimuth": 120.0
+      }
+    },
+    {
+      "id": 4,
+      "name": "OSM Dark",
+      "hotkey": "T+4",
+      "inspired_by": "OpenStreetMap Dark Matter",
+      "background": [ 15, 15, 20 ],
+      "skyground": [ 155, 200, 220 ],
+      "roads": {
+        "motorway": [ 200, 130, 70 ],
+        "trunk": [ 200, 160, 100 ],
+        "primary": [ 180, 150, 100 ],
+        "secondary": [ 150, 140, 120 ],
+        "tertiary": [ 120, 115, 110 ],
+        "residential": [ 100, 95, 90 ],
+        "service": [ 70, 65, 60 ],
+        "footway": [ 60, 130, 60 ],
+        "path": [ 60, 130, 60 ],
+        "cycleway": [ 50, 100, 160 ],
+        "living_street": [ 100, 120, 100 ],
+        "steps": [ 110, 90, 70 ]
+      },
+      "buildings": {
+        "residential": [ 50, 60, 80 ],
+        "house": [ 50, 60, 80 ],
+        "detached": [ 50, 60, 80 ],
+        "apartments": [ 40, 50, 70 ],
+        "commercial": [ 80, 60, 40 ],
+        "retail": [ 80, 60, 40 ],
+        "industrial": [ 70, 50, 40 ],
+        "school": [ 60, 80, 50 ],
+        "university": [ 60, 80, 50 ],
+        "hospital": [ 100, 40, 40 ],
+        "default": [ 60, 60, 60 ]
+      },
+      "pois": {
+        "default": [ 30, 130, 160 ]
+      },
+      "path": {
+        "inner": [ 180, 30, 30 ],
+        "outline": [ 180, 150, 0 ]
+      },
+      "sun": {
+        "ambient": 0.25,
+        "elevation": 30.0,
+        "azimuth": 160.0
+      }
+    },
+    {
+      "id": 5,
+      "name": "HERE Light",
+      "hotkey": "T+5",
+      "inspired_by": "HERE Maps Day",
+      "background": [ 160, 205, 225 ],
+      "skyground": [ 155, 200, 220 ],
+      "roads": {
+        "motorway": [ 230, 175, 75 ],
+        "trunk": [ 235, 195, 115 ],
+        "primary": [ 240, 215, 155 ],
+        "secondary": [ 215, 205, 180 ],
+        "tertiary": [ 195, 190, 175 ],
+        "residential": [ 175, 170, 155 ],
+        "service": [ 155, 150, 135 ],
+        "footway": [ 145, 200, 145 ],
+        "path": [ 145, 200, 145 ],
+        "cycleway": [ 135, 180, 215 ],
+        "living_street": [ 175, 190, 170 ],
+        "steps": [ 170, 155, 140 ]
+      },
+      "buildings": {
+        "residential": [ 190, 175, 150 ],
+        "house": [ 190, 175, 150 ],
+        "detached": [ 190, 175, 150 ],
+        "apartments": [ 175, 160, 135 ],
+        "commercial": [ 200, 175, 145 ],
+        "retail": [ 200, 175, 145 ],
+        "industrial": [ 185, 165, 150 ],
+        "school": [ 185, 195, 165 ],
+        "university": [ 185, 195, 165 ],
+        "hospital": [ 210, 165, 165 ],
+        "default": [ 180, 175, 165 ]
+      },
+      "pois": {
+        "default": [ 90, 190, 230 ]
+      },
+      "path": {
+        "inner": [ 230, 70, 70 ],
+        "outline": [ 230, 200, 30 ]
+      },
+      "sun": {
+        "ambient": 0.65,
+        "elevation": 55.0,
+        "azimuth": 130.0
+      }
+    },
+    {
+      "id": 6,
+      "name": "HERE Dark",
+      "hotkey": "T+6",
+      "inspired_by": "HERE Maps Night",
+      "background": [ 25, 28, 32 ],
+      "skyground": [ 155, 200, 220 ],
+      "roads": {
+        "motorway": [ 200, 150, 60 ],
+        "trunk": [ 205, 170, 95 ],
+        "primary": [ 210, 185, 125 ],
+        "secondary": [ 185, 175, 150 ],
+        "tertiary": [ 165, 160, 145 ],
+        "residential": [ 145, 140, 125 ],
+        "service": [ 125, 120, 105 ],
+        "footway": [ 115, 170, 115 ],
+        "path": [ 115, 170, 115 ],
+        "cycleway": [ 105, 150, 185 ],
+        "living_street": [ 145, 160, 140 ],
+        "steps": [ 140, 125, 110 ]
+      },
+      "buildings": {
+        "residential": [ 55, 65, 85 ],
+        "house": [ 55, 65, 85 ],
+        "detached": [ 55, 65, 85 ],
+        "apartments": [ 45, 55, 75 ],
+        "commercial": [ 85, 65, 45 ],
+        "retail": [ 85, 65, 45 ],
+        "industrial": [ 75, 55, 45 ],
+        "school": [ 65, 85, 55 ],
+        "university": [ 65, 85, 55 ],
+        "hospital": [ 105, 45, 45 ],
+        "default": [ 65, 65, 65 ]
+      },
+      "pois": {
+        "default": [ 40, 160, 190 ]
+      },
+      "path": {
+        "inner": [ 190, 40, 40 ],
+        "outline": [ 190, 160, 0 ]
+      },
+      "sun": {
+        "ambient": 0.20,
+        "elevation": 25.0,
+        "azimuth": 170.0
+      }
+    }
+  ]
+}

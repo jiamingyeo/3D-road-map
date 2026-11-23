@@ -1,0 +1,24 @@
+# Build output
+build/
+out/
+
+# Visual Studio (if you open the folder in VS)
+.vs/
+*.user
+*.suo
+
+# Stray compiled artifacts
+*.exe
+*.pdb
+*.obj
+*.lib
+
+# Editor / per-user config
+.vscode/
+CMakeUserPresets.json
+compile_commands.json
+
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
