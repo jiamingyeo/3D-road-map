@@ -92,7 +92,7 @@ projects/jiaming.yeo-project-phase9/
 | 2 | [screenshot](video%20demo/phase%202.png) |
 | 3 | [gif](video%20demo/phase%203.gif) |
 | 4 | [video](video%20demo/phase%204.mp4) |
-| 5 | [gif](video%20demo/pahse%205.gif) |
+| 5 | [gif](video%20demo/phase%205.gif) |
 | 6 | [video](video%20demo/phase%206.mp4) |
 | 7 | [video](video%20demo/phase%207.mp4) |
 | 8 | [video](video%20demo/phase%208.mp4) |
@@ -106,6 +106,6 @@ Data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright), l
 
 ## Acknowledgments
 
-Course project for CSD-3151, DigiPen Institute of Technology.
+Course project for CSD-3151, DigiPen Institute of Technology Singapore.
 
 Copyright © 2026 DigiPen Institute of Technology.

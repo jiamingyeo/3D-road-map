@@ -203,7 +203,7 @@ int main() {
                 snprintf(
                     title,
                     sizeof(title),
-                    "Phase 6 3D Map | pos (%.1f, %.1f, %.1f) | pitch %.1f yaw %.1f | speed %.0f | %d/%d segs bld %d poi %d | \xC2\xA9 OpenStreetMap contributors",
+                    "3D Road Map | pos (%.1f, %.1f, %.1f) | pitch %.1f yaw %.1f | speed %.0f | %d/%d segs bld %d poi %d | \xC2\xA9 OpenStreetMap contributors",
                     cam.pos.x,
                     cam.pos.y,
                     cam.pos.z,
