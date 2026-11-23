@@ -2,7 +2,7 @@
 
 A real-time **3D map viewer and route planner** built from scratch in C++ / OpenGL. Roads, buildings and points of interest are streamed from an OpenStreetMap-derived SQLite database, rendered as a 3D city with level-of-detail control and switchable map themes — and you can plan routes with A* by clicking two points on the map.
 
-<video src="video%20demo/phase%209.mp4" controls muted></video>
+https://github.com/user-attachments/assets/d521d820-3686-4673-883c-926b73138ae9
 
 *Latest demo (phase 9) — routing, buildings, POIs and theme switching. [Watch directly](video%20demo/phase%209.mp4) if the player doesn't render.*
 
