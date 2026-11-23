@@ -100,7 +100,9 @@ projects/jiaming.yeo-project-phase9/
 
 ## Data
 
-Map data is derived from [OpenStreetMap](https://www.openstreetmap.org) — © OpenStreetMap contributors.
+`map_extended.db` was converted from an [OpenStreetMap](https://www.openstreetmap.org) extract of Singapore.
+
+Data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright), licensed under the [Open Database License (ODbL) v1.0](https://opendatacommons.org/licenses/odbl/).
 
 ## Acknowledgments
 
